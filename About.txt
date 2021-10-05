@@ -5,3 +5,8 @@ This Repsoitory contains all the details regarding Research Article Recommender 
 There are two main types of Recommender System, Content-Based Recommender System(CB) and Collabrative Filtering  Recommender System (CF). 
 
 
+
+Thankyou! 
+
+
+
